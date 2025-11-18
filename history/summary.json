@@ -112,19 +112,19 @@
     "url": "https://people.riscstar.com/~404/",
     "icon": "https://icons.duckduckgo.com/ip3/people.riscstar.com.ico",
     "slug": "people-404-page",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
-    "time": 358,
-    "timeDay": 358,
-    "timeWeek": 358,
-    "timeMonth": 358,
-    "timeYear": 358,
+    "status": "up",
+    "uptime": "56.98%",
+    "uptimeDay": "56.98%",
+    "uptimeWeek": "56.98%",
+    "uptimeMonth": "56.98%",
+    "uptimeYear": "56.98%",
+    "time": 249,
+    "timeDay": 249,
+    "timeWeek": 249,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 17
     }
   }
 ]
