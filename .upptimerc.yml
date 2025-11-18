@@ -4,14 +4,27 @@ repo: dashboard
 sites:
   - name: Main website
     url: https://riscstar.com
-  - name: Releases website
-    url: https://releases.riscstar.com
-  - name: Community forum front page
-    url: https://forums.riscstar.com
-  - name: People front page
-    url: https://people.riscstar.com
+  - name: Main website 404 page
+    url: https://riscstar.com/404
+    expectedStatusCodes:
+      - 404
+
+  - name: Releases toolchain page
+    url: https://releases.riscstar.com/toolchain/
+
+  - name: Community forum about page
+    url: https://forums.riscstar.com/about
+  - name: Community forum 404 page
+    url: https://forums.riscstar.com/404
+    expectedStatusCodes:
+      - 404
+  
   - name: People for Jonathan S Tuttle
     url: https://people.riscstar.com/~jonathan/
+  - name: People 404 page
+    url: https://people.riscstar.com/~404/
+    expectedStatusCodes:
+      - 404
 
 status-website:
   baseUrl: /dashboard
