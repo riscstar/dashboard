@@ -8,12 +8,10 @@ sites:
     url: https://releases.riscstar.com
   - name: Community forum front page
     url: https://forums.riscstar.com
-  - name: People for Jonathan S Tuttle
-    url: https://people.riscstar.com/~jonathan/
   - name: People front page
     url: https://people.riscstar.com
-    expectedStatusCodes:
-      - 307
+  - name: People for Jonathan S Tuttle
+    url: https://people.riscstar.com/~jonathan/
 
 status-website:
   baseUrl: /dashboard
