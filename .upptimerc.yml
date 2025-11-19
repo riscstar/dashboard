@@ -1,6 +1,8 @@
 owner: riscstar
 repo: dashboard
 
+# See https://upptime.js.org/docs/configuration for configuration docs.
+
 sites:
   - name: Main website
     url: https://riscstar.com
@@ -18,7 +20,7 @@ sites:
     url: https://forums.riscstar.com/404
     expectedStatusCodes:
       - 404
-  
+
   - name: People for Jonathan S Tuttle
     url: https://people.riscstar.com/~jonathan/
   - name: People 404 page
@@ -28,15 +30,28 @@ sites:
 
 status-website:
   baseUrl: /dashboard
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Dashboard
+  name: RISCstar Dashboard
+  logoUrl: https://raw.githubusercontent.com/riscstar/dashboard/refs/heads/master/assets/riscstar-icon.png
   introTitle: "**RISCstar** website availability dashboard."
   introMessage: This provides a short status summary of the availability of RISCstar web services.
+  # We can't have a robots.txt since this website isn't the top-level domain.
+  # This is the best we can do to discourage indexing.
+  metaTags:
+    - name: "robots"
+      content: "noindex"
   navbar:
+    - title: Home page
+      href: https://riscstar.com
     - title: Status
-      href: /
+      href: /dashboard
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/20 * * * *"
