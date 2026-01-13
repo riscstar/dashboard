@@ -22,11 +22,11 @@ sites:
       - 404
 
   - name: People for Jonathan S Tuttle
+    url: https://people.riscstar.com/~jonathan/public/
+  - name: People 401 page
     url: https://people.riscstar.com/~jonathan/
-  - name: People 404 page
-    url: https://people.riscstar.com/~404/
     expectedStatusCodes:
-      - 404
+      - 401
 
 status-website:
   baseUrl: /dashboard
