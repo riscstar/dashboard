@@ -1,7 +1,7 @@
 url: https://releases.riscstar.com/toolchain/
-status: up
-code: 200
-responseTime: 306
-lastUpdated: 2026-03-15T23:21:41.815Z
+status: down
+code: 415
+responseTime: 134
+lastUpdated: 2026-03-16T08:13:27.003Z
 startTime: 2025-11-18T13:00:17.998Z
 generator: Upptime <https://github.com/upptime/upptime>
