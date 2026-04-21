@@ -6,13 +6,20 @@ repo: dashboard
 sites:
   - name: Main website
     url: https://riscstar.com
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: Main website 404 page
     url: https://riscstar.com/404
     expectedStatusCodes:
       - 404
+      - 415
 
   - name: Releases toolchain page
     url: https://releases.riscstar.com/toolchain/
+    expectedStatusCodes:
+      - 200
+      - 415
 
   - name: Community forum about page
     url: https://forums.riscstar.com/about
