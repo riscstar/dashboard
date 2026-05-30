@@ -4,17 +4,17 @@
     "url": "https://riscstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/riscstar.com.ico",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.29%",
-    "time": 1270,
-    "timeDay": 1485,
-    "timeWeek": 1225,
-    "timeMonth": 1346,
-    "timeYear": 1270,
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.24%",
+    "time": 1267,
+    "timeDay": 990,
+    "timeWeek": 1133,
+    "timeMonth": 1319,
+    "timeYear": 1267,
     "dailyMinutesDown": {
       "2025-11-20": 25,
       "2025-11-26": 88,
@@ -39,7 +39,7 @@
       "2026-04-07": 152,
       "2026-04-08": 154,
       "2026-04-09": 63,
-      "2026-05-30": 10
+      "2026-05-30": 127
     }
   },
   {
@@ -47,15 +47,15 @@
     "url": "https://riscstar.com/404",
     "icon": "https://icons.duckduckgo.com/ip3/riscstar.com.ico",
     "slug": "main-website-404-page",
-    "status": "down",
-    "uptime": "99.12%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.12%",
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "91.50%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.08%",
     "time": 368,
-    "timeDay": 349,
-    "timeWeek": 372,
+    "timeDay": 377,
+    "timeWeek": 377,
     "timeMonth": 407,
     "timeYear": 368,
     "dailyMinutesDown": {
@@ -83,7 +83,7 @@
       "2026-03-23": 64,
       "2026-04-07": 152,
       "2026-04-08": 154,
-      "2026-05-30": 5
+      "2026-05-30": 122
     }
   },
   {
@@ -91,17 +91,17 @@
     "url": "https://releases.riscstar.com/toolchain/",
     "icon": "https://icons.duckduckgo.com/ip3/releases.riscstar.com.ico",
     "slug": "releases-toolchain-page",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
-    "time": 267,
-    "timeDay": 162,
-    "timeWeek": 232,
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "91.84%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.16%",
+    "time": 266,
+    "timeDay": 187,
+    "timeWeek": 229,
     "timeMonth": 200,
-    "timeYear": 267,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2025-11-26": 214,
       "2025-11-25": 209,
@@ -125,7 +125,7 @@
       "2026-03-23": 64,
       "2026-04-07": 152,
       "2026-04-08": 154,
-      "2026-05-30": 0
+      "2026-05-30": 118
     }
   },
   {
