@@ -47,17 +47,17 @@
     "url": "https://riscstar.com/404",
     "icon": "https://icons.duckduckgo.com/ip3/riscstar.com.ico",
     "slug": "main-website-404-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "99.57%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "76.11%",
     "uptimeMonth": "93.89%",
     "uptimeYear": "98.61%",
-    "time": 392,
-    "timeDay": 501,
-    "timeWeek": 447,
-    "timeMonth": 460,
-    "timeYear": 392,
+    "time": 391,
+    "timeDay": 307,
+    "timeWeek": 438,
+    "timeMonth": 455,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2025-11-26": 214,
       "2025-11-25": 209,
@@ -90,7 +90,8 @@
       "2026-08-02": 693,
       "2026-08-03": 481,
       "2026-08-04": 347,
-      "2026-08-05": 201
+      "2026-08-05": 201,
+      "2026-08-06": 0
     }
   },
   {
