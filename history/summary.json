@@ -4,11 +4,11 @@
     "url": "https://riscstar.com",
     "icon": "https://icons.duckduckgo.com/ip3/riscstar.com.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.44%",
     "time": 1251,
     "timeDay": 509,
@@ -39,7 +39,8 @@
       "2026-04-07": 152,
       "2026-04-08": 154,
       "2026-04-09": 63,
-      "2026-05-30": 127
+      "2026-05-30": 127,
+      "2026-08-07": 10
     }
   },
   {
@@ -47,14 +48,14 @@
     "url": "https://riscstar.com/404",
     "icon": "https://icons.duckduckgo.com/ip3/riscstar.com.ico",
     "slug": "main-website-404-page",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "44.48%",
-    "uptimeWeek": "66.46%",
-    "uptimeMonth": "91.67%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "98.35%",
+    "uptimeDay": "52.31%",
+    "uptimeWeek": "66.41%",
+    "uptimeMonth": "91.65%",
+    "uptimeYear": "98.35%",
     "time": 392,
-    "timeDay": 430,
+    "timeDay": 466,
     "timeWeek": 434,
     "timeMonth": 459,
     "timeYear": 392,
@@ -92,7 +93,7 @@
       "2026-08-04": 347,
       "2026-08-05": 201,
       "2026-08-06": 744,
-      "2026-08-07": 227
+      "2026-08-07": 232
     }
   },
   {
@@ -100,9 +101,9 @@
     "url": "https://releases.riscstar.com/toolchain/",
     "icon": "https://icons.duckduckgo.com/ip3/releases.riscstar.com.ico",
     "slug": "releases-toolchain-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
@@ -134,7 +135,8 @@
       "2026-03-23": 64,
       "2026-04-07": 152,
       "2026-04-08": 154,
-      "2026-05-30": 118
+      "2026-05-30": 118,
+      "2026-08-07": 0
     }
   },
   {
